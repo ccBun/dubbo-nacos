@@ -7,6 +7,6 @@ public class DemoServiceImpl implements DemoService {
 
     @Override
     public String sayHello(String name) {
-        return "halo " + name;
+        return "hello " + name;
     }
 }
