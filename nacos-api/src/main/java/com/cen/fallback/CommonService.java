@@ -8,5 +8,7 @@ public class CommonService {
         return "no halo";
     }
 
-
+    public String commonMethod2() {
+        return "method2";
+    }
 }
