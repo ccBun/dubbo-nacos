@@ -23,4 +23,8 @@ public class CommonService {
     public String commonMethod4() {
         return "method4";
     }
+
+    public String bug2() {
+        return "this is hot-fix bug2";
+    }
 }
