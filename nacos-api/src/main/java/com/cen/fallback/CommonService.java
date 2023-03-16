@@ -11,4 +11,8 @@ public class CommonService {
     public String commonMethod2() {
         return "method2";
     }
+
+    public String commonMethod3() {
+        return "method3";
+    }
 }
